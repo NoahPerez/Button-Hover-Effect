@@ -6,14 +6,14 @@ body {
     height: 100vh;
     background: #161616;
     overflow: hidden;
+    
 }
 
 body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-weight: 400;
-    font-family: "Lato";
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .cursor,
@@ -52,9 +52,9 @@ body {
     margin: 4rem;
     color: white;
     cursor: pointer;
-    font-family: "Monument Extended";
+    font-family: Arial, Helvetica, sans-serif;
     text-transform: uppercase;
-    font-weight: lighter;
+    font-weight: 700;
     color: grey;
     text-decoration: none;
 }
